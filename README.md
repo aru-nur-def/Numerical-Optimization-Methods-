@@ -10,21 +10,21 @@ This project detects fraudulent financial transactions using machine learning.
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone (https://github.com/aru-nur-def/Numerical-Optimization-Methods-.git)
    
-Install dependencies:
+### Install dependencies:
 
 pip install -r requirements.txt
 Usage
 
-To train the model:
+### To train the model:
 
 python train_model.py
 
-License
+### License
 
 MIT License
 
-Author
-
-Your Name - your.email@example.com
+### Authors
+Nurkhissa Farida
+Saparkhankyzy Aruzhan
