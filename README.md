@@ -26,8 +26,6 @@ python train_model.py
 MIT License
 
 ## Authors
-- Nurkhissa
-- Farida
-- Saparkhankyzy
-- Aruzhan
+- Nurkhissa Farida
+- Saparkhankyzy Aruzhan - 231768@astanait.edu.kz
 
