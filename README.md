@@ -10,7 +10,7 @@ This project detects fraudulent financial transactions using machine learning.
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone (https://github.com/aru-nur-def/Numerical-Optimization-Methods-.git)
+   git clone https://github.com/aru-nur-def/Numerical-Optimization-Methods-.git
    
 ### Install dependencies:
 
