@@ -19,7 +19,8 @@ Usage
 
 ### To train the model:
 
-python train_model.py
+ - pipeline_example.py
+ - plotting.py
 
 ### License
 
